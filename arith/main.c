@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include"arith.h"
 
 int main(int argc, char const *argv[]) {
   /* ad */
