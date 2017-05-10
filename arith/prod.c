@@ -1,4 +1,4 @@
-int prod(int a, int b);
+int prod(int a, int b)
 {
   return a*b;
 }
